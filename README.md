@@ -8,11 +8,11 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=abhi07-coder&style=for-the-badge&color=0ea5e9"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/followers/abhi07-coder?style=for-the-badge&logo=github&color=181717"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=facc15"/>
+<img src="https://img.shields.io/github/stars/abhi07-coder?style=for-the-badge&logo=github&color=facc15"/>
 
 </div>
 
@@ -230,7 +230,7 @@ Realtime Messaging Platform
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/abhi07-coder">
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
@@ -248,7 +248,7 @@ Realtime Messaging Platform
 
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
+<a href="https://twitter.com/abhi07-coder">
 
 <img src="https://skillicons.dev/icons?i=twitter"/>
 
@@ -287,9 +287,9 @@ Realtime Messaging Platform
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi07-coder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi07-coder&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -297,7 +297,7 @@ Realtime Messaging Platform
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi07-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -307,7 +307,7 @@ Realtime Messaging Platform
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi07-coder&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -317,7 +317,7 @@ Realtime Messaging Platform
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhi07-coder&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </div>
 
@@ -327,7 +327,7 @@ Realtime Messaging Platform
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/abhi07-coder/abhi07-coder/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -392,7 +392,7 @@ while(alive){
 
 If you like my work, consider giving a ⭐ to my repositories.
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/abhi07-coder">
 
 <img src="https://img.shields.io/badge/⭐_Follow_Me_on_GitHub-181717?style=for-the-badge&logo=github"/>
 
@@ -406,7 +406,7 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/abhi07-coder">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
