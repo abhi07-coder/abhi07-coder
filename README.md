@@ -1,101 +1,437 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;JavaScript+Lover;Open+Source+Contributor;Always+Learning+New+Things" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,30:0F172A,60:2563EB,100:06B6D4&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Stack%20•%20Open%20Source%20Enthusiast&descAlignY=60"/>
 
----
+<br>
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Abhishek+Kumar;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Beautiful+Web+Experiences;Always+Learning+Something+New"/>
 
-- 🔭 Currently working on **Full Stack Projects**
-- 🌱 Learning **Next.js, Docker & AWS**
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
-- ⚡ Fun fact: **I love building amazing web applications.**
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9"/>
 
-## 🚀 Tech Stack
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=181717"/>
 
-<p align="center">
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=facc15"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode,linux,docker,aws&perline=10" />
-
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 💫 About Me
 
-<p align="center">
+```javascript
+const abhishek = {
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+    role: "Full Stack Developer",
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+    code: [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Java"
+    ],
 
-</p>
+    frontend: [
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "React",
+        "Next.js"
+    ],
 
-<p align="center">
+    backend: [
+        "Node.js",
+        "Express.js"
+    ],
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+    database: [
+        "MongoDB",
+        "MySQL"
+    ],
 
-</p>
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Docker",
+        "Linux"
+    ],
+
+    currentlyLearning: [
+        "AWS",
+        "System Design",
+        "Microservices"
+    ],
+
+    funFact:
+        "Turning coffee ☕ into scalable applications."
+
+}
+```
 
 ---
 
-## 🏆 GitHub Trophies
+# 🚀 Current Goals
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+- 🔥 Building scalable Full Stack Applications
+- 🌱 Learning Cloud & DevOps
+- 🤖 Exploring AI Integrations
+- 📚 Solving DSA Problems
+- 💡 Contributing to Open Source
 
 ---
 
-## 🌐 Connect with Me
+# ⚡ Tech Stack
 
-<p align="center">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,git,github,docker,linux,vscode,figma&perline=10"/>
+
+</div>
+
+---
+
+# 💻 Workspace
+
+| 💻 Device | ⚙️ IDE | 🌐 Browser | 🖥️ OS | ☕ Fuel |
+|-----------|--------|-----------|--------|---------|
+| Laptop | VS Code | Chrome | Windows | Coffee |
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+
+Modern Full Stack Shopping Website
+
+**Tech**
+
+`React`
+
+`Node.js`
+
+`MongoDB`
+
+`Express`
+
+⭐ **Features**
+
+- Authentication
+- Razorpay
+- Admin Dashboard
+- Responsive UI
+
+<a href="PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-0ea5e9?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI ChatBot
+
+OpenAI Powered Chat Assistant
+
+**Tech**
+
+`Next.js`
+
+`Node.js`
+
+`OpenAI`
+
+⭐ **Features**
+
+- AI Chat
+- Dark Mode
+- History
+- Authentication
+
+<a href="PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-8b5cf6?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏥 Hospital Management
+
+Hospital ERP System
+
+**Tech**
+
+`React`
+
+`Express`
+
+`MongoDB`
+
+⭐ **Features**
+
+- Doctor Panel
+- Patient Panel
+- Appointment
+- Dashboard
+
+<a href="PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-06b6d4?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💬 Realtime Chat App
+
+Realtime Messaging Platform
+
+**Tech**
+
+`Socket.io`
+
+`Node.js`
+
+`MongoDB`
+
+⭐ **Features**
+
+- Live Chat
+- Group Chat
+- Emoji
+- Notifications
+
+<a href="PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-2563eb?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 <a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter" />
+
+<img src="https://skillicons.dev/icons?i=twitter"/>
+
 </a>
 
-</p>
+<a href="https://discord.gg/">
+
+<img src="https://skillicons.dev/icons?i=discord"/>
+
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+## 💬 Favorite Quote
 
-</p>
+> **"First, solve the problem. Then, write the code."**
 
-<p align="center">
+</div>
 
-### ⭐ Thanks for visiting my profile! ⭐
+---
 
-</p>
+<div align="center">
+
+### ⚡ Scroll Down For GitHub Analytics ⚡
+
+⬇️⬇️⬇️
+
+</div>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ⚡ Development Activity
+
+<div align="center">
+
+| Category | Status |
+|----------|--------|
+| 🚀 Full Stack | ██████████ 100% |
+| ⚛ React | █████████░ 90% |
+| 🟢 Node.js | █████████░ 90% |
+| 🍃 MongoDB | ████████░░ 85% |
+| 🐳 Docker | ██████░░░░ 60% |
+| ☁ AWS | █████░░░░░ 50% |
+| 📚 DSA | ███████░░░ 70% |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 20+ Production Projects
+- 🚀 Master Next.js
+- ☁ Learn AWS & Kubernetes
+- 🤝 Contribute to Open Source
+- 📱 Build SaaS Products
+- 💼 Land High Impact Developer Role
+
+---
+
+# 💻 Coding Philosophy
+
+<div align="center">
+
+```text
+while(alive){
+
+    Eat();
+
+    Sleep();
+
+    Code();
+
+    Learn();
+
+    Repeat();
+
+}
+```
+
+</div>
+
+---
+
+# ☕ Support
+
+<div align="center">
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+<a href="https://github.com/YOUR_USERNAME">
+
+<img src="https://img.shields.io/badge/⭐_Follow_Me_on_GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</div>
+
+---
+
+# 🌍 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:020617&height=160&section=footer"/>
+
+### ⭐ If you like my work, don't forget to follow me!
+
+</div>
